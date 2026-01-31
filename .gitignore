@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# TensorFlow / models
+backend/models/*.h5
+
+# Dataset (too large)
+data/fruits_dataset/
+
+# Temporary images
+temp_*.jpg
+temp_*.png
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
