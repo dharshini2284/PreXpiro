@@ -18,9 +18,6 @@ The system uses a CNN-based computer vision model to classify food items as Fres
   - Suggests recipes based on available ingredients
   - Prioritizes near-expiry food items to reduce waste
 
-- 📷 Packaged Food Scanner  
-  - Extracts packaged food details using OCR
-
 - 📊 Analytics Dashboard  
   - Displays freshness insights and food utilization statistics
 
